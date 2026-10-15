@@ -38,3 +38,12 @@ Open an [issue](https://github.com/leandro-santos-abreu/EndlessLibrary-releases/
 Say which version you played and what happened. Attaching the newest log from
 `%APPDATA%\Godot\app_userdata\Endless Library\playtest_logs` helps a lot: it
 records where you went and what happened during the shift.
+
+## License
+
+The Endless Library © 2026 Outsider. All rights reserved. The builds are free
+to download and play; please don't re-upload or redistribute them.
+
+The game includes software and fonts under their own licences (Godot Engine,
+the .NET runtime, IBM Plex and Libre Caslon Text). Their licence texts are in
+the `licenses` folder of each download, from 0.2.0 on.
