@@ -29,8 +29,8 @@ The build is not code-signed, so Windows may say it protected your PC. Choose
 On the title screen the game asks GitHub for this repository's list of
 releases. When a newer version is out, the menu shows **GAME VERSION** with
 your version and the new one (for example `0.1.0 → 0.2.0`), which opens its
-download page. Nothing is downloaded or installed
-automatically. To turn the check off, go to **SETTINGS → CHECK FOR UPDATES**.
+download page. Nothing is downloaded or installed automatically. To turn the
+check off, go to **SETTINGS → CHECK FOR UPDATES**.
 
 ## Reporting bugs
 
