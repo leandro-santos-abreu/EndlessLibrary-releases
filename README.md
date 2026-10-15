@@ -27,8 +27,8 @@ The build is not code-signed, so Windows may say it protected your PC. Choose
 ## Updates
 
 On the title screen the game asks GitHub for this repository's list of
-releases. When a newer version is out, the menu shows **FIRMWARE UPDATE**,
-which opens its download page. Nothing is downloaded or installed
+releases. When a newer version is out, the menu shows **GAME VERSION** with
+the new version number, which opens its download page. Nothing is downloaded or installed
 automatically. To turn the check off, go to **SETTINGS → CHECK FOR UPDATES**.
 
 ## Reporting bugs
