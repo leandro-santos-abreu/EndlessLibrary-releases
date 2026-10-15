@@ -42,8 +42,11 @@ records where you went and what happened during the shift.
 ## License
 
 The Endless Library © 2026 Outsider. All rights reserved. The builds are free
-to download and play; please don't re-upload or redistribute them.
+to download and play, under the terms in [LICENSE](LICENSE): no re-uploading,
+sharing, selling or modifying them.
 
-The game includes software and fonts under their own licences (Godot Engine,
-the .NET runtime, IBM Plex and Libre Caslon Text). Their licence texts are in
-the `licenses` folder of each download, from 0.2.0 on.
+The game includes the work of others under their own licences: Godot Engine,
+the .NET runtime, the IBM Plex and Libre Caslon Text fonts, and CC0 bodies,
+animation and recordings. Their licences and credits are in the `licenses`
+folder of each download (from 0.2.0 on; the full list of credits,
+`THIRD_PARTY_NOTICES.md`, from the next version).
